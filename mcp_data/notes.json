@@ -1,0 +1,104 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Meeting Note",
+      "content": "our meeting,",
+      "created_at": "2025-06-20T16:20:43.699020",
+      "updated_at": "2025-06-20T16:20:43.699028"
+    },
+    {
+      "id": 2,
+      "title": "Meeting Note",
+      "content": "our meeting,",
+      "created_at": "2025-06-20T16:50:16.094831",
+      "updated_at": "2025-06-20T16:50:16.094840"
+    },
+    {
+      "id": 3,
+      "title": "Quick Note",
+      "content": "client meeting tomorrow at 2pm",
+      "created_at": "2025-06-20T16:55:05.187680",
+      "updated_at": "2025-06-20T16:55:05.187689"
+    },
+    {
+      "id": 4,
+      "title": "Meeting Note",
+      "content": "our meeting",
+      "created_at": "2025-06-20T16:57:14.200632",
+      "updated_at": "2025-06-20T16:57:14.200648"
+    },
+    {
+      "id": 5,
+      "title": "Meeting Note",
+      "content": "our meeting",
+      "created_at": "2025-06-20T16:58:11.812074",
+      "updated_at": "2025-06-20T16:58:11.812083"
+    },
+    {
+      "id": 6,
+      "title": "Meeting Note",
+      "content": "our meeting for tomorrow",
+      "created_at": "2025-06-20T16:59:25.093886",
+      "updated_at": "2025-06-20T16:59:25.093895"
+    },
+    {
+      "id": 7,
+      "title": "Meeting Note",
+      "content": "our meeting for tomorrow",
+      "created_at": "2025-06-20T17:04:55.396195",
+      "updated_at": "2025-06-20T17:04:55.396205"
+    },
+    {
+      "id": 8,
+      "title": "Quick Note",
+      "content": "exam for tomorrow",
+      "created_at": "2025-06-20T17:06:42.127635",
+      "updated_at": "2025-06-20T17:06:42.127648"
+    },
+    {
+      "id": 10,
+      "title": "Deployment Note",
+      "content": "Tomorrow (June 21, 2025) - Production deployment scheduled.\n\nChecklist:\n- Backup database\n- Test staging environment\n- Verify SSH access\n- Notify stakeholders",
+      "created_at": "2025-06-20T18:11:16.740291",
+      "updated_at": "2025-06-20T18:11:16.740311"
+    },
+    {
+      "id": 11,
+      "title": "Claude Code Testing",
+      "content": "Testing Claude Code functionality on Linux environment. Need to verify all tools work correctly including file operations, bash commands, and MCP integration.",
+      "created_at": "2025-06-20T18:12:05.847587",
+      "updated_at": "2025-06-20T18:12:05.847597"
+    },
+    {
+      "id": 12,
+      "title": "Project Meeting",
+      "content": "Project meeting scheduled for tomorrow (June 21, 2025). Review project status, discuss milestones, and plan next steps.",
+      "created_at": "2025-06-20T18:14:38.594822",
+      "updated_at": "2025-06-20T18:14:38.594832"
+    },
+    {
+      "id": 13,
+      "title": "Tomorrow Schedule",
+      "content": "June 21, 2025 - Exam, Client meeting 2pm, Project meeting, Production deployment",
+      "created_at": "2025-06-20T18:17:05.071669",
+      "updated_at": "2025-06-20T18:17:05.071680"
+    },
+    {
+      "id": 14,
+      "title": "Anatomy Exam Study Notes",
+      "content": "Important body parts for exam: Heart (pumps blood, 4 chambers), Lungs (gas exchange, oxygen/CO2), Brain (control center, neurons), Liver (detox, metabolism), Kidneys (filter blood, urine), Stomach (digestion, acid), Muscles (movement, contraction), Bones (support, protection)",
+      "created_at": "2025-06-20T18:21:44.391339",
+      "updated_at": "2025-06-20T18:21:44.391349"
+    },
+    {
+      "id": 15,
+      "title": "Stock Market Briefing - June 22 Client Meeting",
+      "content": "Stock Market Update for Client Meeting (June 22, 2025): Current market showing mixed signals. Tech sector up 2.3% this week driven by AI advancements. Energy sector volatile due to oil price fluctuations. Fed interest rate decisions impacting bond yields. Recommend diversified portfolio approach. Key talking points: risk management, long-term growth strategy, dividend-paying stocks for stability. Market volatility expected to continue through Q3.",
+      "created_at": "2025-06-20T18:24:01.651666",
+      "updated_at": "2025-06-20T18:24:01.651677"
+    }
+  ],
+  "counter": 16,
+  "last_updated": "2025-06-20T18:24:01.651681"
+}
